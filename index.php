@@ -12,6 +12,7 @@
 </head>
 	
 <body>	
+
 	<div id="wrapper">
 		<input type="button" class="show_ad" value="show_ad" />
 		<div class="mod">
